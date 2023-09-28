@@ -4,4 +4,4 @@ cd devops_Project2
 #docker pull busybox#
 docker build -t brindhasd/bluelagon .
 docker push brindhasd/bluelagon 
-docker run -d -p 8080:80 brindhasd/bluelago
+docker run -d -p 8080:80 brindhasd/bluelagon
